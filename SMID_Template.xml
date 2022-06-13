@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAPolicy>
+  <digitalAssets>
+	${assets}
+  </digitalAssets>
+  <complianceTemplates>
+    <template name="208BD6E48ED216D080257F7D003015CC" severity="" display_name="Raiffeisen Cards Template" description="Creadit Cards with Raiffeisen Bank IIN prefixes " pre-defined="">
+        ${rules}
+    </template>
+  </complianceTemplates>
+</SAPolicy>
